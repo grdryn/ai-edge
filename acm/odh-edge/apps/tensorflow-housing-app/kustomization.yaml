@@ -85,5 +85,5 @@ replacements:
           - spec.jobTemplate.spec.template.spec.volumes.*.configMap.name
 images:
   - name: edge-model-template-image
-    newName: quay.io/rhoai-edge/tensorflow-housing
-    digest: sha256:8486af7728e1214ac5f81c6b93d560078d357f2096d1b40c38a9ac8e1cd68767
+    newName: quay.io/grdryn/tensorflow-housing
+    digest: sha256:c9dc2c47999738d95625bfb9bef3ec81c9f8a280db45888d3926ddbbc645a4c7
