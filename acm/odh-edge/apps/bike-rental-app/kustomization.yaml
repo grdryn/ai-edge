@@ -65,5 +65,5 @@ replacements:
           - spec.jobTemplate.spec.template.spec.volumes.*.configMap.name
 images:
   - name: edge-model-template-image
-    newName: quay.io/rhoai-edge/bike-rentals-auto-ml
-    digest: sha256:c4d68d1de1d90f52cb4053d0655496c3a677c55821db21492908a9584dd2e93b
+    newName: quay.io/grdryn/bike-rentals-auto-ml
+    digest: sha256:2d66c6aff3e703f69c37d27f847365fb5fada875daae46c78b1439e25ba9d87e
